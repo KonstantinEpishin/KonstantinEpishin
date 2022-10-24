@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KonstantinEpishin
 - 👀 I’m interested in backend and game development
-- 🌱 I’m currently learning C++, C#, Unity and Xamarin
+- 🌱 I’m currently learning C, C++, C#, Unity and Xamarin
 - 💞️ I’m looking to collaborate on development Linux and Boost
 - 📫 How to reach me: @KonstantinEpishin (telegram)
 
