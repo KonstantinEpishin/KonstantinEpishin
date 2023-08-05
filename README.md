@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KonstantinEpishin
+- 👋 Hi, I’m Constantin Epishin
 - 👀 I’m interested in backend and game development
 - 🌱 I’m currently learning C, C++, C#, Unity and Xamarin
 - 💞️ I’m looking to collaborate on development Linux and Boost
