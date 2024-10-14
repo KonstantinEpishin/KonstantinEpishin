@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Constantin
-- 👀 I’m interested in backend and game development
-- 🌱 I’m currently learning C, C++, C#, Unity and Xamarin
-- 💞️ I’m looking to collaborate on development Linux and Boost
+Don't ask me about the language - ask me about the idea.
+If you asked about the idea, find out about the architecture. Architecture.
+The rest is just the details of the task.
 
 <!---
 KonstantinEpishin/KonstantinEpishin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
